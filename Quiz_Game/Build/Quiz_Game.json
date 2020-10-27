@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "quizGame",
+"productVersion": "0.1",
+"dataUrl": "Quiz_Game.data.unityweb",
+"wasmCodeUrl": "Quiz_Game.wasm.code.unityweb",
+"wasmFrameworkUrl": "Quiz_Game.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.11f1"
+}
